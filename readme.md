@@ -25,3 +25,7 @@ Actually the common folder structure of ```Skeleton``` is :
 you can visit ```Skeleton Official Website``` and explore more...
     http://getskeleton.com/
 
+### The Screenshoot
+Here is the screenshoot of the application, it's very simple app....hehe
+
+![Dashboard](images/screenshoot.jpg "This is the Screenshoot")
